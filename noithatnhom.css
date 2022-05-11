@@ -1,0 +1,36 @@
+*{
+  margin: 0;
+  box-sizing: border-box;
+}
+
+#body{
+  margin: 30px;
+}
+.hedder1{
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+}
+.hedder1 p{
+  margin: 10px;
+}
+
+
+#foter{
+  background-color: slategray;
+  color: white;
+  display: flex;
+  justify-content: space-around;
+}
+
+.foter1{
+  margin: 20px;
+}
+
+@media screen and (max-width: 480px) {
+}
+
+
+
+@media screen and (max-width: 1024px) {
+}
